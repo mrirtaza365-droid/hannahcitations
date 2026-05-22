@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hannah-jasmine-citations.vercel.app/sitemap.xml
+Sitemap: https://digitalmarketingwithirtaza.com/sitemap.xml

@@ -1,0 +1,22 @@
+export const citationData = [
+  { id: 1, source: "merchantcircle.com", url: "https://www.merchantcircle.com/fire-gallery-houston-tx", status: "Live", category: "General", country: "USA", da: 74 },
+  { id: 2, source: "Hubbiz.com", url: "https://fire-gallery.hub.biz/", status: "Live", category: "General", country: "USA", da: 56 },
+  { id: 3, source: "nextdoor.com", url: "https://nextdoor.com/page/fire-gallery/", status: "Live", category: "Community", country: "USA", da: 85 },
+  { id: 4, source: "yelp.com", url: "https://www.yelp.com/biz/fire-gallery-houston", status: "Pending", category: "Reviews", country: "USA", da: 93 },
+  { id: 5, source: "cylex.us.com", url: "https://www.cylex.us.com/company/fire-gallery-art-pottery-class-glassblowing-37513398.html", status: "Live", category: "General", country: "USA", da: 61 },
+  { id: 6, source: "zipleaf.us", url: "https://www.zipleaf.us/Companies/Fire-Gallery", status: "Live", category: "General", country: "USA", da: 55 },
+  { id: 7, source: "citysquares.com", url: "https://citysquares.com/b/fire-gallery-26756242", status: "Live", category: "Local", country: "USA", da: 62 },
+  { id: 8, source: "us.enrollbusiness.com", url: "https://us.enrollbusiness.com/BusinessProfile/7604859/Fire-Gallery-Houston-TX-77007", status: "Live", category: "General", country: "USA", da: 51 },
+  { id: 9, source: "brownbook.net", url: "https://www.brownbook.net/business/54393722/fire-gallery", status: "Live", category: "General", country: "Global", da: 72 },
+  { id: 10, source: "freelistingusa.com", url: "https://www.freelistingusa.com/listings/fire-gallery", status: "Live", category: "General", country: "USA", da: 40 },
+  { id: 11, source: "cybo.com", url: "https://www.cybo.com/US-biz/fire-gallery_10", status: "Live", category: "General", country: "Global", da: 69 },
+  { id: 12, source: "houzz.com", url: "https://www.houzz.com/pro/firegallery", status: "Live", category: "Home/Design", country: "Global", da: 89 },
+  { id: 13, source: "blinx.biz", url: "https://www.blinx.biz/fire-gallery", status: "Live", category: "General", country: "Global", da: 42 },
+  { id: 14, source: "acompio.us", url: "https://www.acompio.us/Fire+Gallery-47501030.html", status: "Live", category: "General", country: "USA", da: 54 },
+  { id: 15, source: "bunity.com", url: "https://www.bunity.com/fire-gallery", status: "Live", category: "Community", country: "USA", da: 45 },
+  { id: 16, source: "hotfrog.com", url: "https://www.hotfrog.com/company/d668ebcd830138fbe7451963fe82d876/fire-gallery/houston", status: "Live", category: "General", country: "USA", da: 68 },
+  { id: 17, source: "n49.com", url: "https://www.n49.com/biz/6885168/fire-gallery-tx-houston-1520-silver-st/", status: "Live", category: "General", country: "Canada/US", da: 55 },
+  { id: 18, source: "bark.com", url: "https://www.bark.com/en/us/company/fire-gallery/4XM0kg/", status: "Live", category: "Services", country: "USA", da: 74 },
+  { id: 19, source: "cataloxy.us", url: "https://tx-houston.cataloxy.us/firms/www.firegallery.art.htm", status: "Live", category: "General", country: "USA", da: 55 },
+  { id: 20, source: "bizidex.com", url: "https://bizidex.com/en/fire-gallery-arts-821193", status: "Live", category: "B2B", country: "Global", da: 58 }
+];
